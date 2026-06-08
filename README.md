@@ -6,10 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/peymangraph">GitHub</a> ·
-  <a href="https://peymangraph.github.io/my-cv/">CV</a> ·
   <a href="https://dev.to/p_ym_n">Dev.to</a> ·
-  <a href="https://www.qiaip.com">QIAIP</a> ·
   <a href="mailto:peyman.bahareh@gmail.com">Email</a>
 </p>
 
@@ -23,7 +20,7 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 
 ## Core Skills
 
-- **AI Engineering:** OpenAI API, GPT-4o, LangChain, prompt engineering, LLM workflows, multi-agent orchestration
+- **AI Engineering:** OpenAI API, LangChain, prompt engineering, LLM workflows, multi-agent orchestration
 - **Full-Stack Development:** JavaScript, Node.js, React, HTML/CSS, Python, Java, C++, C#
 - **Backend & APIs:** REST APIs, webhooks, PostgreSQL, MySQL, Oracle, MongoDB
 - **Automation & Data:** OCR/PDF workflows, structured extraction, scalable data pipelines, vector search, context management
@@ -42,9 +39,6 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 | **Coding Club** | Learning and community initiative for programming practice, mentoring, and collaborative technical growth. |
 | **Bridges of Light** | Community-focused initiative for connection, support, and purpose-driven digital presence. |
 | **WFGuard** | Workflow guard system concept for monitoring, validating, and protecting operational processes. |
-| **Lease AI** | GAAP-compliant lease amortization engine for financial compliance workflows. |
-| **Request AI** | Natural-language AI chatbot for maintenance and service request intake, routing, and dispatch workflows. |
-| **Invoice AI** | OCR and GPT-enhanced invoice processing system with vendor and contract intelligence. |
 
 ## AI Tooling Ecosystem
 
@@ -79,7 +73,9 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peymangraph&show_icons=true&hide_border=true&theme=default" alt="GitHub stats for peymangraph" />
+  <a href="https://github.com/peymangraph">
+    <img src="https://github-readme-stats.vercel.app/api?username=peymangraph&show_icons=true&hide_border=true&theme=default" alt="GitHub stats for PeymanGraph" />
+  </a>
 </p>
 
 ---

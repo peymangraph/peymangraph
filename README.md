@@ -9,7 +9,6 @@
   <a href="https://github.com/peymangraph">GitHub</a> ·
   <a href="https://peymangraph.github.io/my-cv/">CV</a> ·
   <a href="https://dev.to/p_ym_n">Dev.to</a> ·
-  <a href="https://www.avehar.com">Avehar</a> ·
   <a href="https://www.qiaip.com">QIAIP</a> ·
   <a href="mailto:peyman.bahareh@gmail.com">Email</a>
 </p>
@@ -34,8 +33,15 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 
 ## Apps & Systems
 
-| App | Functionality |
+| App / Initiative | Functionality |
 | --- | --- |
+| **QIAIP** | AI-focused platform initiative for intelligent products, automation, and applied AI workflows. |
+| **Avelis HCM** | Human capital management system concept for organizing workforce, HR, and people-operation workflows. |
+| **Sign For A Change** | Digital campaign and signature platform for advocacy, petitions, and change-focused initiatives. |
+| **Mindscene AI** | AI-assisted workspace for ideation, reasoning, content generation, and knowledge workflows. |
+| **Coding Club** | Learning and community initiative for programming practice, mentoring, and collaborative technical growth. |
+| **Bridges of Light** | Community-focused initiative for connection, support, and purpose-driven digital presence. |
+| **WFGuard** | Workflow guard system concept for monitoring, validating, and protecting operational processes. |
 | **Lease AI** | GAAP-compliant lease amortization engine for financial compliance workflows. |
 | **Request AI** | Natural-language AI chatbot for maintenance and service request intake, routing, and dispatch workflows. |
 | **Invoice AI** | OCR and GPT-enhanced invoice processing system with vendor and contract intelligence. |

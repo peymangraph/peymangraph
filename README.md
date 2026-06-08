@@ -1,39 +1,74 @@
-<h1 align="center">Hi, I'm PeymanGraph</h1>
+<h1 align="center">Peyman M Hassan</h1>
 
 <p align="center">
-  <strong>Developer focused on practical, reliable, and maintainable software.</strong>
+  <strong>Senior Software Engineer, AI (Full Stack)</strong><br />
+  Agentic Workflows · LLM Systems · Full-Stack Development · Automation
 </p>
 
 <p align="center">
-  <a href="https://github.com/peymangraph">GitHub</a>
+  <a href="https://github.com/peymangraph">GitHub</a> ·
+  <a href="https://peymangraph.github.io/my-cv/">CV</a> ·
+  <a href="https://dev.to/p_ym_n">Dev.to</a> ·
+  <a href="https://www.avehar.com">Avehar</a> ·
+  <a href="https://www.qiaip.com">QIAIP</a> ·
+  <a href="mailto:peyman.bahareh@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About
 
-I build software with an emphasis on clarity, usability, and long-term maintainability. My work is driven by practical problem solving: understand the goal, design the smallest solid solution, and improve it through iteration.
+I build full-stack applications, AI-powered automation systems, and practical software tools that turn complex workflows into reliable, reviewable products. My work combines backend architecture, frontend usability, data pipelines, API integrations, and modern LLM tooling.
 
-I am especially interested in systems that make information easier to use, automate repetitive work, and turn ideas into working products.
+I focus on systems that are useful in production: clear interfaces, predictable behavior, traceable AI outputs, and maintainable code that can evolve over time.
 
-## What I Focus On
+## Core Skills
 
-- Building clean, understandable, and maintainable code
-- Designing practical tools that solve real problems
-- Improving workflows through automation and thoughtful engineering
-- Learning continuously and applying new ideas with discipline
-- Collaborating clearly, documenting decisions, and shipping responsibly
+- **AI Engineering:** OpenAI API, GPT-4o, LangChain, prompt engineering, LLM workflows, multi-agent orchestration
+- **Full-Stack Development:** JavaScript, Node.js, React, HTML/CSS, Python, Java, C++, C#
+- **Backend & APIs:** REST APIs, webhooks, PostgreSQL, MySQL, Oracle, MongoDB
+- **Automation & Data:** OCR/PDF workflows, structured extraction, scalable data pipelines, vector search, context management
+- **DevOps & Delivery:** Git, GitHub, Gitea, Docker, Linux/VPS, CI/CD pipelines
+- **Integrations:** SaaS integrations, API middleware, DocuSign API, Ariba integrations
+- **Product & Process:** Agile project management, rapid prototyping, remote collaboration, frontend UX, backend architecture
 
-## Engineering Principles
+## Apps & Systems
 
-- **Clarity first:** code, documentation, and communication should be easy to follow.
-- **Practical design:** simple solutions are preferred when they meet the real requirement.
-- **Reliability matters:** software should behave predictably and be easy to debug.
-- **Continuous improvement:** each project is an opportunity to refine both product and process.
+| App | Functionality |
+| --- | --- |
+| **Lease AI** | GAAP-compliant lease amortization engine for financial compliance workflows. |
+| **Request AI** | Natural-language AI chatbot for maintenance and service request intake, routing, and dispatch workflows. |
+| **Invoice AI** | OCR and GPT-enhanced invoice processing system with vendor and contract intelligence. |
 
-## Current Direction
+## AI Tooling Ecosystem
 
-I am using this GitHub profile to organize projects, experiments, and technical work as they evolve. More repositories and project details will be added over time.
+| Tool | Practical Use |
+| --- | --- |
+| **Relevance AI** | Building AI agents and workflow automation around structured business processes. |
+| **VectorShift AI** | Designing visual AI pipelines, knowledge workflows, and automation flows. |
+| **Stack AI** | Creating AI-powered internal tools and workflow applications. |
+| **Flowise AI** | Building visual LLM flows and LangChain-style AI prototypes. |
+
+## Research & Technical Interests
+
+- Human-AI collaboration in critical infrastructure
+- Natural Language Processing for smart cities and sustainable automation
+- Reliable agentic workflows with human-in-the-loop review
+- AI systems that produce traceable, structured, and reviewable outputs
+- Quantum circuit simulation and foundational quantum computing concepts
+
+## Education & Continuous Learning
+
+- **B.S. in Computer Science**, University of the People — Honor Student
+- **Computer Science and Networking Program**, East Bay University
+- **Front-End Web UI Frameworks and Tools**, The Hong Kong University of Science and Technology / Coursera
+- **Server-side Development with NodeJS, Express, and MongoDB**, The Hong Kong University of Science and Technology / Coursera
+- **Deep Learning Specialization**, DeepLearning.AI / Coursera
+- **AI for Everyone**, Andrew Ng / Coursera
+- **Modern React with Redux**, Udemy
+- **Node.js Microservices**, Udemy
+- **The Complete Quantum Computing Course**, Udemy
+- **Automate Development Tasks with OpenAI’s Codex**, OpenAI
 
 ## GitHub Activity
 
@@ -44,5 +79,5 @@ I am using this GitHub profile to organize projects, experiments, and technical 
 ---
 
 <p align="center">
-  <em>Open to learning, building, and collaborating on useful software.</em>
+  <em>Building practical AI and full-stack systems with clear engineering discipline.</em>
 </p>

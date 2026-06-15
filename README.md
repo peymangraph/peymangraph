@@ -68,15 +68,11 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 - **Modern React with Redux**, Udemy
 - **Node.js Microservices**, Udemy
 - **The Complete Quantum Computing Course**, Udemy
-- **Automate Development Tasks with OpenAI’s Codex**, OpenAI
+- **Automate Development Tasks with OpenAI's Codex**, OpenAI
 
 ## GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/peymangraph">
-    <img src="https://github-readme-stats.vercel.app/api?username=peymangraph&show_icons=true&hide_border=true&theme=default" alt="GitHub stats for PeymanGraph" />
-  </a>
-</p>
+GitHub's native contribution graph, repositories, pull requests, and issues are available directly on my [GitHub profile](https://github.com/peymangraph). This profile README does not embed third-party stats cards.
 
 ---
 

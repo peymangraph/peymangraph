@@ -59,7 +59,7 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 
 ## Education & Continuous Learning
 
-- **B.S. in Computer Science**, University of the People — Honor Student
+- **B.S. in Computer Science**, University of the People
 - **Computer Science and Networking Program**, East Bay University
 - **Front-End Web UI Frameworks and Tools**, The Hong Kong University of Science and Technology / Coursera
 - **Server-side Development with NodeJS, Express, and MongoDB**, The Hong Kong University of Science and Technology / Coursera

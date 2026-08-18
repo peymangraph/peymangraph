@@ -40,6 +40,14 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 | **Bridges of Light** | Community-focused initiative for connection, support, and purpose-driven digital presence. |
 | **WFGuard** | Workflow guard system concept for monitoring, validating, and protecting operational processes. |
 
+## Books & Publications
+
+| Year | Title | Focus | Links |
+| --- | --- | --- | --- |
+| 2026 | **Brick by Brick AI — Building Artificial Intelligence One Brick at a Time** | A beginner-friendly AI learning book for young readers, using stories, building analogies, challenges, quizzes, and responsible-AI lessons. | [GitHub Repository](https://github.com/peymangraph/Lego-AI-Building-Artificial-Intelligence-One-Brick-at-a-Time) · [Interactive Workshop](https://brickbybrickai.avehar.com/) |
+
+<!-- Add future books and publications above this comment, newest first. -->
+
 ## AI Tooling Ecosystem
 
 | Tool | Practical Use |
@@ -69,6 +77,14 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 - **Node.js Microservices**, Udemy
 - **The Complete Quantum Computing Course**, Udemy
 - **Automate Development Tasks with OpenAI's Codex**, OpenAI
+
+## Certificates & Credentials
+
+| Year | Credential | Issuer | Verification |
+| --- | --- | --- | --- |
+| 2026 | **Introduction to Artificial Intelligence** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/c9906302-908a-11f1-a1e5-23371ac57ac3) |
+
+<!-- Add future certificates above this comment, newest first. -->
 
 ## GitHub Activity
 

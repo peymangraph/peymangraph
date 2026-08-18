@@ -62,13 +62,25 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 - Human-AI collaboration in critical infrastructure
 - Natural Language Processing for smart cities and sustainable automation
 - Reliable agentic workflows with human-in-the-loop review
+- Autonomous systems, flying cars, and self-driving / autopilot vehicle technologies
 - AI systems that produce traceable, structured, and reviewable outputs
 - Quantum circuit simulation and foundational quantum computing concepts
 
 ## Education & Continuous Learning
 
+### Graduate Education
+
+- **Master of Science in Artificial Intelligence — In Progress**, Udacity Institute of AI & Technology / Woolf, 2026–Present
+  - Planned focus: **Flying Cars, Autonomous Vehicles, and Autopilot Systems**
+  - Project-based study in artificial intelligence, machine learning, autonomous systems, and applied AI engineering
+
+### Undergraduate Education
+
 - **B.S. in Computer Science**, University of the People
 - **Computer Science and Networking Program**, East Bay University
+
+### Additional Learning
+
 - **Front-End Web UI Frameworks and Tools**, The Hong Kong University of Science and Technology / Coursera
 - **Server-side Development with NodeJS, Express, and MongoDB**, The Hong Kong University of Science and Technology / Coursera
 - **Deep Learning Specialization**, DeepLearning.AI / Coursera

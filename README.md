@@ -44,7 +44,7 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 
 | Year | Title | Focus | Links |
 | --- | --- | --- | --- |
-| 2026 | **Brick by Brick AI — Building Artificial Intelligence One Brick at a Time** | A beginner-friendly AI learning book for young readers, using stories, building analogies, challenges, quizzes, and responsible-AI lessons. | [Amazon](https://a.co/d/058OdCHA) · [GitHub Repository](https://github.com/peymangraph/Lego-AI-Building-Artificial-Intelligence-One-Brick-at-a-Time) · [Interactive Workshop](https://brickbybrickai.avehar.com/) |
+| 2026 | **Brick by Brick AI — Building Artificial Intelligence One Brick at a Time** | A beginner-friendly AI learning book for young readers, using stories, building analogies, challenges, quizzes, and responsible-AI lessons. | [Amazon Store](https://a.co/d/058OdCHA) |
 
 <!-- Add future books and publications above this comment, newest first. -->
 

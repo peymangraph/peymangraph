@@ -1,8 +1,7 @@
 <h1 align="center">Peyman M Hassan</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer, AI (Full Stack)</strong><br />
-  Agentic Workflows · LLM Systems · Full-Stack Development · Automation
+  <strong>Senior Project Manager at AxxerionUSA | AI Full-Stack Engineer | Enterprise SaaS · LLM Workflows · Automation · Integrations</strong>
 </p>
 
 <p align="center">

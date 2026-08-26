@@ -95,6 +95,7 @@ I focus on systems that are useful in production: clear interfaces, predictable 
 | Year | Credential | Issuer | Verification |
 | --- | --- | --- | --- |
 | 2026 | **Introduction to Artificial Intelligence** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/c9906302-908a-11f1-a1e5-23371ac57ac3) |
+| 2026 | **Ethics in AI for AI Masters Program** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/d3af2a36-9c55-11f1-b918-678fb82ff200) |
 
 <!-- Add future certificates above this comment, newest first. -->
 

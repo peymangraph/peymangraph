@@ -128,6 +128,7 @@ Explore the project: **[qiaip.com](https://www.qiaip.com/)**
 
 | Year | Credential | Issuer | Verification |
 | --- | --- | --- | --- |
+| 2026 | **Generative AI** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/c5296d08-975c-11f1-b309-6b96c3e94867) |
 | 2026 | **CITI Program Training Certificate** | CITI Program | [View Certificate](https://www.citiprogram.org/verify/?w3d68e21d-fad2-45c6-821e-1acd1d2af231-79751903) |
 | 2026 | **Multi-Agent Systems** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/9fe034ce-8f0e-11f1-a0c8-17e1f3af5085) |
 | 2026 | **Introduction to Artificial Intelligence** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/c9906302-908a-11f1-a1e5-23371ac57ac3) |

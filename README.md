@@ -46,6 +46,23 @@ The project investigates how systems can move beyond traditional menu-driven app
 
 Explore the project: **[qiaip.com](https://www.qiaip.com/)**
 
+## Master's in Artificial Intelligence — Research Progress (2026)
+
+I am pursuing an **M.S. in Artificial Intelligence (in progress)** through the Udacity Institute of AI & Technology, a member college of Woolf. My capstone-oriented research combines an **independently initialized scientific language model (NovaLM)** with **predictive-maintenance learning and governed multi-agent enterprise workflows (QIAIP)**.
+
+**Research question:** Can sensor-driven machine learning and carefully governed AI-agent orchestration improve maintenance decision quality, reliability, and explainability versus deterministic and single-agent baselines?
+
+| Research component | Verified progress | Repository |
+| --- | --- | --- |
+| **NovaLM — native scientific language-model research** | Original decoder-only Transformer, learned byte-level BPE tokenizer, CUDA training and checkpoint/evaluation smoke tests; CERN Open Data *metadata-only* pilot | [NovaLM](https://github.com/peymangraph/NovaLM) · [research PR #13](https://github.com/peymangraph/NovaLM/pull/13) |
+| **QIAIP — predictive maintenance** | NASA C-MAPSS FD001 *simulated-engine* benchmark: held-out PR-AUC **0.1207** deterministic rule, **0.7885** logistic regression, **0.7818** random forest; training, validation and test engines separated | [QIAIP](https://github.com/peymangraph/qiaip-erp) · [benchmark PR #282](https://github.com/peymangraph/qiaip-erp/pull/282) |
+| **Deep-learning time-series forecasting** | PyTorch GRU and regression baselines implemented; **14 local tests passed**, but GPU training outcomes and forecasting scores are not yet verified | [QIAIP research work](https://github.com/peymangraph/qiaip-erp/tree/research/predictive-maintenance-baselines/research/masters-capstone/predictive-maintenance) |
+| **Capstone evidence and governance** | Research protocol, proposed academic deliverables, experiment metadata validator and tests | [Capstone protocol PR #281](https://github.com/peymangraph/qiaip-erp/pull/281) |
+
+**Research integrity:** NASA C-MAPSS trajectories are simulator-generated, not deployed industrial equipment data. NovaLM's current independently trained checkpoints are small research prototypes, not a production-ready scientific LLM. Comparative RULE/SINGLE/MULTI agent experiments remain prospective. Workstream mappings are subject to the official program rubrics; no degree completion is claimed.
+
+**Selected graduate coursework:** [Introduction to AI](https://github.com/peymangraph/Sudoku-Solver) · [Agentic AI](https://github.com/peymangraph/AgenticAI) · [Generative AI / NASA Mission Intelligence](https://github.com/peymangraph/cd13318-exercises-project) · [Deep Learning experiment (QIAIP)](https://github.com/peymangraph/qiaip-erp/pull/282).
+
 ## Core Skills
 
 - **AI Engineering:** OpenAI API, LangChain, prompt engineering, RAG, LLM workflows, multi-agent orchestration, evaluation and tool calling

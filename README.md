@@ -145,6 +145,7 @@ I am pursuing an **M.S. in Artificial Intelligence (in progress)** through the U
 
 | Year | Credential | Issuer | Verification |
 | --- | --- | --- | --- |
+| 2026 | **Udacity Certificate (title pending verification)** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/8acdb022-971d-11f1-950f-1763302f79c0) |
 | 2026 | **Udacity Certificate (title pending verification)** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/5675b424-a75c-11f1-9962-73411dd2c7b1) |
 | 2026 | **Udacity Certificate (title pending verification)** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/02b255e2-9760-11f1-8d08-d779913f94fd) |
 | 2026 | **Generative AI** | Udacity | [View Certificate](https://www.udacity.com/certificate/e/c5296d08-975c-11f1-b309-6b96c3e94867) |
